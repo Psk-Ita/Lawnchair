@@ -1,6 +1,7 @@
 id=Lawnchair
-name=Lawnchair launcher + icons + feeds + recents
-version=v12.dev59
+name=Lawnchair full package
+version=v12-dev59.1
 versionCode=29
 author=Psk.It
-description=Lawnchair full package
+description=Lawnchair launcher + icons + feeds + recents
+minApi=30
